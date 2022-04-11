@@ -1,2 +1,2 @@
 # cfg
-CS:GO Server \csgo\cfg
+CS:GO Server ...\csgo\cfg
