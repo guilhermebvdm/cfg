@@ -1,0 +1,9 @@
+info             - Information about a plugin
+list             - Show loaded plugins
+load             - Load a plugin
+load_lock        - Prevents any more plugins from being loaded
+load_unlock      - Re-enables plugin loading
+refresh          - Reloads/refreshes all plugins in the plugins folder
+reload           - Reloads a plugin
+unload           - Unload a plugin
+unload_all       - Unloads all plugins
